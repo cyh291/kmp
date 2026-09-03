@@ -1,0 +1,6 @@
+﻿  KMP.cpp
+D:\导入过的文件\C++\kmp\kmp\KMP.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\导入过的文件\C++\kmp\x64\Debug\kmp.exe 或上一个增量链接没有生成它；正在执行完全链接
+  kmp.vcxproj -> D:\导入过的文件\C++\kmp\x64\Debug\kmp.exe
